@@ -27,5 +27,14 @@
     "request-promise": "^4.2.5",
     "shortid": "^2.2.15",
     "socket.io": "^2.3.0"
+  },
+  "apidoc": {
+    "name": "Expense Management Tool Api Doc",
+    "version": "1.0.0",
+    "description": "Api doc for expense management tool",
+    "apidoc": {
+      "title": "Expense Management Tool Api Doc",
+      "url": "https://api.epril-dev.co.in"
+    }
   }
 }
